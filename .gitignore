@@ -1,5 +1,4 @@
-# Model files
-*.safetensors
+# Model files (large files tracked by Git LFS)
 *.pth
 *.ckpt
 *.bin
